@@ -1,4 +1,4 @@
-Kristian	
-Germany	
-Meta Front-End course
+Lorna
+Liverpool
+Meta Database Engineer
 
